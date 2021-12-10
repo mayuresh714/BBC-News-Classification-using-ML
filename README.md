@@ -15,6 +15,10 @@ Then we trained it on deifferent classification model like MLP,randomforest,logi
 for different vector sizes 50,100,200,300 and noted that **MUltilayer perceptron** performed well in 
 every case.So we saved the MLP model in .pickle file and used it in endproject (deployment time).
 
+This was my accuracy score (picture from kaggle page)
+![image](https://user-images.githubusercontent.com/56029669/145625084-fc0de96d-7c35-4f90-8a16-47be92b55b0c.png)
+
+
 to check how this model works on new article ,proceed as per following steps:<br/>
 ---> 1)  pick up some article from google and save it in **/endproject/article.txt** <br/>
 ---> 2)  go to **/endproject/app.py** and run it.<br/>

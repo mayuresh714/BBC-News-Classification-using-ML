@@ -16,6 +16,7 @@ for different vector sizes 50,100,200,300 and noted that **MUltilayer perceptron
 every case.So we saved the MLP model in .pickle file and used it in endproject (deployment time).
 
 This was my accuracy score (picture from kaggle page)
+
 ![image](https://user-images.githubusercontent.com/56029669/145625084-fc0de96d-7c35-4f90-8a16-47be92b55b0c.png)
 
 

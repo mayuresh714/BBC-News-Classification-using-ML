@@ -9,6 +9,7 @@ The dataset is broken into 1490 records for training and 735 for testing. The go
 link to the kaggle BBC news classify competition --
 https://www.kaggle.com/c/learn-ai-bbc/overview
 
+## Summary of this Repo.
 This data was analysed ,processed ,converted to vector form using DOC2VEC gensim model.
 Then we trained it on deifferent classification model like MLP,randomforest,logistic regression,etc. 
 for different vector sizes 50,100,200,300 and noted that MUltilayer perceptron performed well in 

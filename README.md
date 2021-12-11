@@ -21,9 +21,10 @@ This was my accuracy score (picture from kaggle page)
 
 
 to check how this model works on new article ,proceed as per following steps:<br/>
----> 1)  pick up some article from google and save it in **/endproject/article.txt** <br/>
----> 2)  go to **/endproject/app.py** and run it.<br/>
+---> 1) run the app.py using **streamlit run app.py"** command (if it fails then for windows use *py -m streamlit run app.py*) <br/>
+---> 2) pick up some article from google, paste it in text input section and press prdict button<br/>
+
 
 You will get result like this one......
-![image](https://user-images.githubusercontent.com/56029669/145579621-9015b88e-e0c5-4226-966a-47c1209ecae0.png)
 
+![image](https://user-images.githubusercontent.com/56029669/145673126-2860ab31-abb5-4dd8-8f4d-65bb15ece356.png)

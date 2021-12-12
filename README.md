@@ -27,4 +27,4 @@ to check how this model works on new article ,proceed as per following steps:<br
 
 You will get result like this one......
 
-![image](https://user-images.githubusercontent.com/56029669/145673126-2860ab31-abb5-4dd8-8f4d-65bb15ece356.png)
+![image](https://user-images.githubusercontent.com/56029669/145704535-ba975f1c-2f93-4f98-a687-240b68146496.png)

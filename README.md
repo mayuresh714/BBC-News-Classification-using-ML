@@ -10,12 +10,12 @@ link to the kaggle BBC news classify competition --
 https://www.kaggle.com/c/learn-ai-bbc/overview
 
 ## Summary of this Repo.
-This data was analysed ,processed ,converted to vector form using **DOC2VEC gensim model**
-Then we trained it on deifferent classification model like MLP,randomforest,logistic regression,etc. 
+This data was analysed ,processed ,converted to vector form using **DOC2VEC gensim model**.
+Then we trained it on different classification model like MLP,randomforest,logistic regression,etc. 
 for different vector sizes 50,100,200,300 and noted that **MUltilayer perceptron** performed well in 
 every case.So we saved the MLP model in .pickle file and used it in endproject (deployment time).
 
-This was my accuracy score (picture from kaggle page)
+This was my accuracy score (pic from kaggle page) =>
 
 ![image](https://user-images.githubusercontent.com/56029669/145625084-fc0de96d-7c35-4f90-8a16-47be92b55b0c.png)
 

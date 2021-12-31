@@ -28,3 +28,7 @@ to check how this model works on new article ,proceed as per following steps:<br
 You will get result like this one......
 
 ![image](https://user-images.githubusercontent.com/56029669/145704535-ba975f1c-2f93-4f98-a687-240b68146496.png)
+
+******update:--------->>>>>>>>****<br/>
+This web app is now live(deployed with the heroku)<br/>
+go to https://newtag123.herokuapp.com/ 
